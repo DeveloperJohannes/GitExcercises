@@ -3,3 +3,4 @@ blazor/.idea/.idea.blazor/.idea/indexLayout.xml
 blazor/.idea/.idea.blazor/.idea/projectSettingsUpdater.xml
 blazor/.idea/.idea.blazor/.idea/vcs.xml
 blazor/.idea/.idea.blazor/.idea/workspace.xml
+*.editorconfig
